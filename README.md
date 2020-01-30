@@ -10,7 +10,7 @@ Infelizmente, o governo não mantém uma API pública para realizar esse tipo de
 
 # Informações Disponíveis
 
-####Se um `veículo` com a placa especificada for encontrado, o servidor irá retornar com as seguintes informações:
+#### Se um `veículo` com a placa especificada for encontrado, o servidor irá retornar com as seguintes informações:
 
 - *codigoRetorno*: código de retorno da consulta
 - *mensagemRetorno*: mensagem de retorno da consulta
