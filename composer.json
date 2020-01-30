@@ -1,0 +1,24 @@
+{
+  "name": "breskott/sinesp",
+  "description": "SINESP Cidadao API client",
+  "keywords": ["sinesp", "sinesp-client", "placa", "mandado", "prisão", "veiculos", "governo", "seguranca", "utilidade"],
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Breskott",
+      "email": "contato@breskott.com.br"
+    }
+  ],
+  "require": {
+    "php": ">=5.4.0",
+    "ext-curl": "*",
+    "ext-xml": "*",
+    "ext-libxml": "*"
+  },
+  "autoload": {
+    "psr-4": {
+      "Sinesp\\": "src/"
+    }
+  }
+}
