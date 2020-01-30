@@ -4,6 +4,7 @@
   "keywords": ["sinesp", "sinesp-client", "placa", "mandado", "prisão", "veiculos", "governo", "seguranca", "utilidade"],
   "type": "library",
   "license": "MIT",
+  "version": "1.0",
   "authors": [
     {
       "name": "Breskott",

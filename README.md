@@ -1,6 +1,8 @@
 # Sinesp Cidadão PHP
+<a href="https://packagist.org/packages/breskott/sinesp"><img src="https://poser.pugx.org/breskott/sinesp/version" alt="Latest stable release"></img></a>
 <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-brightgreen.svg" alt="Software license"></img></a>
-
+<a href="https://packagist.org/packages/breskott/sinesp"><img src="https://img.shields.io/packagist/dt/breskott/sinesp.svg" alt="Total downloads"></img></a>
+<a href="https://packagist.org/packages/breskott"><img src="https://img.shields.io/badge/link-packagist-lightgrey.svg" alt="View my other packages and projects"></img></a>
 
 [SINESP Cidadão][1] é uma base de dados pública de veículos e cidadões brasileiros muito útil para identificar carros ou motos roubados ou suspeitos, e de cidadões que possuem mandado de prisão.
 
